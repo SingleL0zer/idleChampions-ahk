@@ -1,4 +1,3 @@
-; Original Author: Abydos, Fritz
 ; orig filename: idlechamp-v1.4.ahk
 ; from striderx2048 210614
 ; edited retaki
